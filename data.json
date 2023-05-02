@@ -1,0 +1,13 @@
+{
+    "full_model_name": "traffic_sign_classifier_v5.0_e10_b32.model",
+    "model_name": "traffic_sign_classifier",
+    "model_ver": "5.0",
+    "model_epochs": "10",
+    "model_batchsize": "32",
+    "classes_csv": "./Datasets/GTSRB/Classes.csv",
+    "sample_images": "./Datasets/GTSRB/Samples",
+    "train_csv": "./Datasets/GTSRB/Train.csv",
+    "train_images": "./Datasets/GTSRB/Train",
+    "validation_csv": "./Datasets/GTSRB/Test.csv",
+    "validation_images": "./Datasets/GTSRB/Test"
+}

@@ -1,0 +1,10 @@
+/early-testing
+/Datasets
+/Models
+/Plots
+/runs
+/venv
+/requirements.txt
+/gui-test.py
+/yolov8n.pt
+/video.mp4
