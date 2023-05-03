@@ -1,0 +1,5 @@
+train: D:\Yashank Folders\PyCharm Directory\Traffic Sign Detection\Datasets\GTSDB\train\images
+val: D:\Yashank Folders\PyCharm Directory\Traffic Sign Detection\Datasets\GTSDB\valid\images
+
+nc: 4
+names: ['danger', 'mandatory', 'other', 'prohibitory']

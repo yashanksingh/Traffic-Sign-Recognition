@@ -1,0 +1,44 @@
+Class IDs,Class Names
+0,Speed limit (20km/h)
+1,Speed limit (30km/h)
+2,Speed limit (50km/h)
+3,Speed limit (60km/h)
+4,Speed limit (70km/h)
+5,Speed limit (80km/h)
+6,End of speed limit (80km/h)
+7,Speed limit (100km/h)
+8,Speed limit (120km/h)
+9,No Overtaking
+10,No Overtaking for Heavy Vehicles
+11,Right-of-Way at next Intersection
+12,Priority Road
+13,Yield
+14,Stop
+15,No Vehicles
+16,Heavy Vehicles Prohibited
+17,No Entry
+18,General Caution
+19,Dangerous Left Curve
+20,Dangerous Right Curve
+21,Double Curve
+22,Bumpy Road
+23,Slippery Road
+24,Narrowing Road
+25,Road Work
+26,Traffic Signals
+27,Pedestrian
+28,Children
+29,Bike
+30,Snow
+31,Deer
+32,End of Limits
+33,Turn Right Ahead
+34,Turn Left Ahead
+35,Ahead Only
+36,Go Straight or Right
+37,Go Straight or Left
+38,Keep Right
+39,Keep Left
+40,Roundabout Mandatory
+41,End of No Overtaking
+42,End of No Overtaking for Heavy Vehicles
