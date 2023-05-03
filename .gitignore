@@ -1,8 +1,9 @@
 /early-testing
 /Datasets
 /venv
-/README.txt
+/README.md
 /requirements.txt
+
 /gui-test.py
 /yolov8n.pt
 /video.mp4
