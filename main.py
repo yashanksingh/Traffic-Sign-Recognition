@@ -12,12 +12,12 @@ train_csv_path = './Datasets/GTSRB/Train.csv'
 validation_images_path = './Datasets/GTSRB/Test'
 validation_csv_path = './Datasets/GTSRB/Test.csv'
 
-ver = "6.0"
-epochs = 30
-batch_size = 8
+ver = "5.0"
+epochs = 10
+batch_size = 32
 image_dimensions = (32, 32, 3)
 
-model_name = f'new/traffic_sign_classifier_v{ver}_e{epochs}_b{batch_size}.model'
+model_name = f'traffic_sign_classifier_v{ver}_e{epochs}_b{batch_size}.model'
 
 # BOOLEAN PARAMETERS
 condition_load = True

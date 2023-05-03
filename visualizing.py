@@ -144,7 +144,7 @@ def show_accuracy_loss_graphs(history, model_name):
     plot.legend(['Training', 'Validation'])
     plot.title('Loss')
     plot.xlabel('Epoch')
-    plot.savefig(f"./Plots/{model_name}-training-validation-loss.png")
+    plot.savefig(f"./Plots/Graphs/{model_name}-training-validation-loss.png")
 
     plot.figure(2)
     plot.plot(history.history['accuracy'])
@@ -152,7 +152,7 @@ def show_accuracy_loss_graphs(history, model_name):
     plot.legend(['Training', 'Validation'])
     plot.title('Accuracy')
     plot.xlabel('Epoch')
-    plot.savefig(f"./Plots/{model_name}-training-validation-accuracy.png")
+    plot.savefig(f"./Plots/Graphs/{model_name}-training-validation-accuracy.png")
 
     plot.show()
 

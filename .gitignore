@@ -1,9 +1,7 @@
 /early-testing
 /Datasets
-/Models
-/Plots
-/runs
 /venv
+/README.txt
 /requirements.txt
 /gui-test.py
 /yolov8n.pt
