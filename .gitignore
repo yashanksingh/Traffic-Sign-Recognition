@@ -1,13 +1,6 @@
 /.idea
 /venv
 
-/README.md
-/requirements.txt
-
-/gui-test.py
-/yolov8n.pt
-/video.mp4
-
 /Datasets/GTSRB/X_train.npy
 /Datasets/GTSRB/X_validation.npy
 /Datasets/GTSRB/Y_train.npy
